@@ -46,7 +46,7 @@ music-generation-unsupervised/
 
 ## 🎵 Generated MIDI Files
 All generated MIDI files are available on Google Drive:  
-🔗 **[MIDI Files — Google Drive Link](YOUR_DRIVE_LINK_HERE)**
+🔗 **[MIDI Files — Google Drive Link](https://drive.google.com/drive/folders/1nZRD9wijyzt_5jil5UBIeknxzqdVa8Vj?usp=sharing)**
 
 | Model | Files |
 |-------|-------|
@@ -96,8 +96,11 @@ Run the notebooks **in order**:
 
 ---
 
-## 📄 Report
+📄 Report
 🔗 **[Final Report PDF — Google Drive Link](YOUR_REPORT_LINK_HERE)**
+
+📊 Loss Curves & Evaluation Plots
+🔗 **[Plots — Google Drive](https://drive.google.com/drive/folders/1yYYqZ4pl9pb7jXcaTdp4aAZwPBd4ZVrj?usp=sharing)**
 
 ---
 
