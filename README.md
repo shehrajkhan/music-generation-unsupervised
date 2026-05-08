@@ -105,4 +105,4 @@ Run the notebooks **in order**:
 ---
 
 ## 🎬 Presentation Video
-🔗 **[YouTube Video Link](YOUR_YOUTUBE_LINK_HERE)**
+🔗 **[YouTube Video Link]((https://youtu.be/vt8FTzvTQrM))**
