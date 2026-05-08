@@ -97,7 +97,7 @@ Run the notebooks **in order**:
 ---
 
 📄 Report
-🔗 **[Final Report PDF — Google Drive Link](YOUR_REPORT_LINK_HERE)**
+🔗 **[Final Report PDF — Google Drive](https://drive.google.com/file/d/1Ovkjok4mDLCyguBaz1d2yr65FF8XkKkV/view?usp=sharing)**
 
 📊 Loss Curves & Evaluation Plots
 🔗 **[Plots — Google Drive](https://drive.google.com/drive/folders/1yYYqZ4pl9pb7jXcaTdp4aAZwPBd4ZVrj?usp=sharing)**
