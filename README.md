@@ -1,7 +1,7 @@
 # Unsupervised Neural Network for Multi-Genre Music Generation
 **Course:** CSE425/EEE474 — Neural Networks  
 **University:** BRAC University  
-**Section:** 5  
+**Section:** 10  
 
 ---
 
@@ -14,10 +14,8 @@ This project implements and compares four unsupervised deep learning models for 
 
 | Name | Student ID | Contribution |
 |------|-----------|--------------|
-| Shehraj Nayeem Khan | 24241111 | Task 1 (LSTM Autoencoder), EDA & Preprocessing |
-| Mahir Jawad Chowdhury | 22301662 | Task 2 (VAE), Latent Interpolation |
-
-> ⚠️ Replace the above with your actual group members and contributions.
+| Shehraj Nayeemn Khan| 24241111 | Task 1 (LSTM Autoencoder), Task 3 (Transformer), EDA & Preprocessing |
+| Mahir Jawad Chowdhury | 22301662 | Task 2 (VAE), Baseline Models, Evaluation Metrics, Report |
 
 ---
 
