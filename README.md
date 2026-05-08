@@ -1,7 +1,7 @@
 # Unsupervised Neural Network for Multi-Genre Music Generation
 **Course:** CSE425/EEE474 — Neural Networks  
 **University:** BRAC University  
-**Section:** 10  
+**Section:** 5  
 
 ---
 
